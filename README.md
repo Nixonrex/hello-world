@@ -1,2 +1,6 @@
 # hello-world
-New_Repository
+
+Greetings to you all in the name of Jesus!
+
+God is faithful.
+
